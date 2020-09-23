@@ -1,0 +1,2 @@
+anyio == 2.0.0
+dnspython == 2
